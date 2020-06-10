@@ -7,3 +7,16 @@
 这里是新增。
 本地新增，
 远程版本库修改。
+<<<<<<< Updated upstream
+
+分支开发--来自jay
+分支开发--来自kenny
+=======
+<<<<<<< HEAD
+我是Kendrick，这里是我的更新内容
+=======
+
+分支开发--来自jay
+分支开发--来自kenny
+>>>>>>> 3de28fe0defc3b9c3c6fbbc7b9dab4f21a009bf4
+>>>>>>> Stashed changes
